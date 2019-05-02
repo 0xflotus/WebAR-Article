@@ -19,7 +19,7 @@ with Augmented Reality (AR) content exposed through experimental web technologi
 
 ### Prerequisites
 
-WebAR-Article will work everywhere, desktop, tablet and mobile. However, if you want to experience WebAR-Article's AR content make sure you have installed [WebARonARKit](https://github.com/google-ar/WebARonARKit) if you are on iOS or [WebARonARCore](https://github.com/google-ar/WebARonARCore) on Android. If you aren't familar with these experimental browsers, please visit their respective github repository to learn how to get starting.
+WebAR-Article will work everywhere, desktop, tablet and mobile. However, if you want to experience WebAR-Article's AR content make sure you have installed [WebARonARKit](https://github.com/google-ar/WebARonARKit) if you are on iOS or [WebARonARCore](https://github.com/google-ar/WebARonARCore) on Android. If you aren't familiar with these experimental browsers, please visit their respective github repository to learn how to get starting.
 
 WebAR-Article is built using modern web development tooling, so before getting started make sure you have [node](https://nodejs.org/en/) and the [npm package manager](https://www.npmjs.com/get-npm) installed on your development machine.
 
